@@ -1,0 +1,38 @@
+[
+    {
+      "href": "https://reactjs.org/",
+      "src": "https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/react.svg",
+      "alt": "React"
+    },
+    {
+      "href": "https://angular.io/",
+      "src": "https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/angular.svg",
+      "alt": "Angular"
+    },
+    {
+      "href": "https://tailwindcss.com/",
+      "src": "https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/tailwindcss.svg",
+      "alt": "Tailwind CSS"
+    },
+    {
+      "href": "https://www.javascript.com/",
+      "src": "https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg",
+      "alt": "JavaScript"
+    },
+    {
+      "href": "https://www.mysql.com/",
+      "src": "https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/mysql.svg",
+      "alt": "MySQL"
+    },
+    {
+      "href": "https://www.w3.org/html/",
+      "src": "https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/html5.svg",
+      "alt": "HTML5"
+    },
+    {
+      "href": "https://www.mongodb.com/",
+      "src": "https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/mongodb.svg",
+      "alt": "MongoDB"
+    }
+  ]
+  
