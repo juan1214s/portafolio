@@ -33,6 +33,18 @@
       "href": "https://www.mongodb.com/",
       "src": "https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/mongodb.svg",
       "alt": "MongoDB"
+    },
+    {
+      "href": "https://www.typescriptlang.org/",
+      "src": "https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/typescript.svg",
+      "alt": "TypeScript"
+    },
+    {
+      "href": "https://nestjs.com/",
+      "src": "https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/nestjs.svg",
+      "alt": "NestJS"
     }
+    
+    
   ]
   

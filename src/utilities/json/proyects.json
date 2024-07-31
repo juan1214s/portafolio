@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Contactos - Backend",
+        "description": "TypeScript, NestJS, bcrypt, Nodemailer, TypeORM, JWT, MySQL.",
+        "description2": "También cuenta con un frontend.",
+        "image": "https://mymodernmet.com/wp/wp-content/uploads/2021/12/best-photos-2021-simon-paul-needham-lion.jpeg",
+        "gitHub": "https://github.com/juan1214s/contactos-back"
+    },
+    {
+        "title": "Contactos - frontend",
+        "description": "TypeScript, NestJS, bcrypt, Nodemailer, TypeORM, JWT, MySQL.",
+        "description2": "También cuenta con un frontend.",
+        "image": "https://mymodernmet.com/wp/wp-content/uploads/2021/12/best-photos-2021-simon-paul-needham-lion.jpeg",
+        "gitHub": "https://github.com/juan1214s/contactos-back"
+    },
+    {
+        "title": "Mecánica - Backend",
+        "description": "TypeScript, NestJS, bcrypt, Nodemailer, TypeORM, JWT, MySQL.",
+        "description2": "También cuenta con un frontend.",
+        "image": "https://mymodernmet.com/wp/wp-content/uploads/2021/12/best-photos-2021-simon-paul-needham-lion.jpeg",
+        "gitHub": "https://github.com/juan1214s/Mecanica-backend"
+    },
+    {
+        "title": "Tareas - Backend",
+        "description": "Es un proyecto para guardar tus tareas de manera sencilla y rápida.",
+        "description2": "También cuenta con un frontend.",
+        "image": "https://mymodernmet.com/wp/wp-content/uploads/2021/12/best-photos-2021-simon-paul-needham-lion.jpeg",
+        "gitHub": "https://github.com/juan1214s/tareas-backend"
+    },
+    {
+        "title": "JMS - Tienda",
+        "description": "Node, Multer, JWT, MySQL.",
+        "description2": "Aún está en proceso, pero igualmente contará con un frontend.",
+        "image": "https://mymodernmet.com/wp/wp-content/uploads/2021/12/best-photos-2021-simon-paul-needham-lion.jpeg",
+        "gitHub": "https://github.com/juan1214s/JMS-tienda"
+    },
+    {
+        "title": "HYLLS MUSIC",
+        "description": "TypeScript, Node, TypeORM, JWT, MySQL.",
+        "description2": "Proyecto que está en proceso de subir a producción.",
+        "image": "https://mymodernmet.com/wp/wp-content/uploads/2021/12/best-photos-2021-simon-paul-needham-lion.jpeg",
+        "gitHub": "https://github.com/juan1214s/back-hylls"
+    }
+]

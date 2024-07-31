@@ -1,24 +1,47 @@
+/* tailwind.css */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 @keyframes shadowBlink {
   0% {
-      box-shadow: 0 0 30px rgb(255, 223, 0); /* Cambiado a rgb */
+    box-shadow: 0 0 30px rgb(255, 223, 0);
   }
   50% {
-      box-shadow: 0 0 60px rgb(255, 223, 0); /* Cambiado a rgb */
+    box-shadow: 0 0 60px rgb(255, 223, 0);
   }
   100% {
-      box-shadow: 0 0 30px rgb(255, 223, 0); /* Cambiado a rgb */
+    box-shadow: 0 0 30px rgb(255, 223, 0);
+  }
+}
+
+@keyframes softShadowBlink {
+  0% {
+    box-shadow: 0 0 10px rgb(255, 223, 0);
+  }
+  50% {
+    box-shadow: 0 0 20px rgb(255, 223, 0);
+  }
+  100% {
+    box-shadow: 0 0 10px rgb(255, 223, 0);
   }
 }
 
 .custom-shadow {
-  box-shadow: 0 0 20px rgb(255, 223, 0); /* Cambiado a rgb */
+  box-shadow: 0 0 20px rgb(255, 223, 0);
   animation: shadowBlink 2.0s infinite;
 }
 
 .bg-custom-yellow {
-  background-color: rgb(255, 223, 0); /* Cambiado a rgb */
+  background-color: rgb(255, 223, 0);
 }
+
+.card-shadow {
+  box-shadow: 0 0 10px rgb(255, 223, 0);
+  animation: softShadowBlink 2.0s infinite;
+}
+
+.border-custom {
+  border: 1px solid rgb(190, 167, 15);
+}
+
