@@ -1,44 +1,65 @@
 [
     {
-        "title": "Contactos - Backend",
+        "title": "Contactos Backend",
         "description": "TypeScript, NestJS, bcrypt, Nodemailer, TypeORM, JWT, MySQL.",
         "description2": "También cuenta con un frontend.",
-        "image": "https://mymodernmet.com/wp/wp-content/uploads/2021/12/best-photos-2021-simon-paul-needham-lion.jpeg",
+        "image": "src/assets/images/captura1.jpg",
         "gitHub": "https://github.com/juan1214s/contactos-back"
     },
     {
-        "title": "Contactos - frontend",
-        "description": "TypeScript, NestJS, bcrypt, Nodemailer, TypeORM, JWT, MySQL.",
-        "description2": "También cuenta con un frontend.",
-        "image": "https://mymodernmet.com/wp/wp-content/uploads/2021/12/best-photos-2021-simon-paul-needham-lion.jpeg",
+        "title": "Contactos Frontend",
+        "description": "TypeScript, bcrypt, Nodemailer, SweetAlert y rutas protegidas.",
+        "description2": "También cuenta con un backend.",
+        "image": "src/assets/images/captura5.png",
         "gitHub": "https://github.com/juan1214s/contactos-back"
     },
     {
-        "title": "Mecánica - Backend",
+        "title": "Mecánica Backend",
         "description": "TypeScript, NestJS, bcrypt, Nodemailer, TypeORM, JWT, MySQL.",
         "description2": "También cuenta con un frontend.",
-        "image": "https://mymodernmet.com/wp/wp-content/uploads/2021/12/best-photos-2021-simon-paul-needham-lion.jpeg",
+        "image": "src/assets/images/captura1.jpg",
         "gitHub": "https://github.com/juan1214s/Mecanica-backend"
     },
     {
-        "title": "Tareas - Backend",
+        "title": "Tareas Backend",
         "description": "Es un proyecto para guardar tus tareas de manera sencilla y rápida.",
         "description2": "También cuenta con un frontend.",
-        "image": "https://mymodernmet.com/wp/wp-content/uploads/2021/12/best-photos-2021-simon-paul-needham-lion.jpeg",
+        "image": "src/assets/images/captura1.jpg",
         "gitHub": "https://github.com/juan1214s/tareas-backend"
     },
     {
-        "title": "JMS - Tienda",
+        "title": "Tareas frontend",
+        "description": "Es un proyecto para guardar tus tareas de manera sencilla y rápida.",
+        "description2": "",
+        "image": "src/assets/images/captura6.png",
+        "gitHub": "https://github.com/juan1214s/apTareas"
+    },
+    {
+        "title": "JMS Tienda",
         "description": "Node, Multer, JWT, MySQL.",
         "description2": "Aún está en proceso, pero igualmente contará con un frontend.",
-        "image": "https://mymodernmet.com/wp/wp-content/uploads/2021/12/best-photos-2021-simon-paul-needham-lion.jpeg",
+        "image": "src/assets/images/captura2.png",
         "gitHub": "https://github.com/juan1214s/JMS-tienda"
     },
     {
         "title": "HYLLS MUSIC",
         "description": "TypeScript, Node, TypeORM, JWT, MySQL.",
         "description2": "Proyecto que está en proceso de subir a producción.",
-        "image": "https://mymodernmet.com/wp/wp-content/uploads/2021/12/best-photos-2021-simon-paul-needham-lion.jpeg",
+        "image": "src/assets/images/p2.png",
         "gitHub": "https://github.com/juan1214s/back-hylls"
+    },
+    {
+        "title": "Natillera JMS",
+        "description": "PHP, MySQL.",
+        "description2": "Proyecto en el cual se pueden registrar préstamos, abonos e intereses.",
+        "image": "src/assets/images/captura4.png",
+        "gitHub": "https://github.com/juan1214s/natillera"
+    },
+    {
+        "title": "Natillera JMS",
+        "description": "PHP, MySQL.",
+        "description2": "Proyecto en el cual se pueden registrar préstamos, abonos e intereses.",
+        "image": "src/assets/images/captura4.png",
+        "gitHub": "https://github.com/juan1214s/natillera"
     }
 ]
