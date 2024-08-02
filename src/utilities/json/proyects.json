@@ -1,58 +1,67 @@
 [
     {
-        "title": "Contactos Backend",
-        "description": "TypeScript, NestJS, bcrypt, Nodemailer, TypeORM, JWT, MySQL.",
-        "description2": "También cuenta con un frontend.",
-        "image": "src/assets/images/captura1.jpg",
-        "gitHub": "https://github.com/juan1214s/contactos-back"
+      "id": "contactos-backend",
+      "title": "Contactos Backend",
+      "description": "TypeScript, NestJS, bcrypt, Nodemailer, TypeORM, JWT, MySQL.",
+      "description2": "También cuenta con un frontend.",
+      "image": "public/images/captura1.jpg",
+      "gitHub": "https://github.com/juan1214s/contactos-back"
     },
     {
-        "title": "Contactos Frontend",
-        "description": "TypeScript, bcrypt, Nodemailer, SweetAlert y rutas protegidas.",
-        "description2": "También cuenta con un backend.",
-        "image": "src/assets/images/captura5.png",
-        "gitHub": "https://github.com/juan1214s/contactos-back"
+      "id": "contactos-frontend",
+      "title": "Contactos Frontend",
+      "description": "TypeScript, bcrypt, Nodemailer, SweetAlert y rutas protegidas.",
+      "description2": "También cuenta con un backend.",
+      "image": "public/images/captura5.png",
+      "gitHub": "https://github.com/juan1214s/contactos-back"
     },
     {
-        "title": "Mecánica Backend",
-        "description": "TypeScript, NestJS, bcrypt, Nodemailer, TypeORM, JWT, MySQL.",
-        "description2": "También cuenta con un frontend.",
-        "image": "src/assets/images/captura1.jpg",
-        "gitHub": "https://github.com/juan1214s/Mecanica-backend"
+      "id": "mecanica-backend",
+      "title": "Mecánica Backend",
+      "description": "TypeScript, NestJS, bcrypt, Nodemailer, TypeORM, JWT, MySQL.",
+      "description2": "También cuenta con un frontend.",
+      "image": "public/images/captura1.jpg",
+      "gitHub": "https://github.com/juan1214s/Mecanica-backend"
     },
     {
-        "title": "Tareas Backend",
-        "description": "Es un proyecto para guardar tus tareas de manera sencilla y rápida.",
-        "description2": "También cuenta con un frontend.",
-        "image": "src/assets/images/captura1.jpg",
-        "gitHub": "https://github.com/juan1214s/tareas-backend"
+      "id": "tareas-backend",
+      "title": "Tareas Backend",
+      "description": "Es un proyecto para guardar tus tareas de manera sencilla y rápida.",
+      "description2": "También cuenta con un frontend.",
+      "image": "public/images/captura1.jpg",
+      "gitHub": "https://github.com/juan1214s/tareas-backend"
     },
     {
-        "title": "Tareas frontend",
-        "description": "Es un proyecto para guardar tus tareas de manera sencilla y rápida.",
-        "description2": "",
-        "image": "src/assets/images/captura6.png",
-        "gitHub": "https://github.com/juan1214s/apTareas"
+      "id": "tareas-frontend",
+      "title": "Tareas frontend",
+      "description": "Es un proyecto para guardar tus tareas de manera sencilla y rápida.",
+      "description2": "",
+      "image": "public/images/captura6.png",
+      "gitHub": "https://github.com/juan1214s/apTareas"
     },
     {
-        "title": "JMS Tienda",
-        "description": "Node, Multer, JWT, MySQL.",
-        "description2": "Aún está en proceso, pero igualmente contará con un frontend.",
-        "image": "src/assets/images/captura2.png",
-        "gitHub": "https://github.com/juan1214s/JMS-tienda"
+      "id": "jms-tienda",
+      "title": "JMS Tienda",
+      "description": "Node, Multer, JWT, MySQL.",
+      "description2": "Aún está en proceso, pero igualmente contará con un frontend.",
+      "image": "public/images/captura2.png",
+      "gitHub": "https://github.com/juan1214s/JMS-tienda"
     },
     {
-        "title": "HYLLS MUSIC",
-        "description": "TypeScript, Node, TypeORM, JWT, MySQL.",
-        "description2": "Proyecto que está en proceso de subir a producción.",
-        "image": "src/assets/images/captura3.png",
-        "gitHub": "https://github.com/juan1214s/back-hylls"
+      "id": "hylls-music",
+      "title": "HYLLS MUSIC",
+      "description": "TypeScript, Node, TypeORM, JWT, MySQL.",
+      "description2": "Proyecto que está en proceso de subir a producción.",
+      "image": "public/images/captura3.png",
+      "gitHub": "https://github.com/juan1214s/back-hylls"
     },
     {
-        "title": "Natillera JMS",
-        "description": "PHP, MySQL.",
-        "description2": "Proyecto en el cual se pueden registrar préstamos, abonos e intereses.",
-        "image": "src/assets/images/captura4.png",
-        "gitHub": "https://github.com/juan1214s/natillera"
+      "id": "natillera-jms",
+      "title": "Natillera JMS",
+      "description": "PHP, MySQL.",
+      "description2": "Proyecto en el cual se pueden registrar préstamos, abonos e intereses.",
+      "image": "public/images/captura4.png",
+      "gitHub": "https://github.com/juan1214s/natillera"
     }
-]
+  ]
+  

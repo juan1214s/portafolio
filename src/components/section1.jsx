@@ -1,6 +1,5 @@
 import React from 'react';
 import { Avatar } from './avatar';
-import profileImage from '../assets/images/profile.jpg';
 
 export default function Section1() {
     return (
@@ -37,7 +36,7 @@ export default function Section1() {
             </div>
             
             <div className="m-14 md:m-28 flex justify-center md:ml-8">
-                <Avatar src={profileImage} alt="Juan Sanchez" fallback="JS" />
+                <Avatar src="https://i.imgur.com/rsKBT3r.jpeg" alt="Juan Sanchez" fallback="JS" />
             </div>
         </div>
     );

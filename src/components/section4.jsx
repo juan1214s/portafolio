@@ -22,7 +22,7 @@ export default function Section4() {
         <div className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3 md:gap-7 lg:gap-9 2xl:gap-12 justify-center">
           {proyects.map((project) => (
             <div
-              key={project.id || project.title} // Usa un identificador único si disponible
+              key={project.id} // Usa el id del proyecto como clave
               className="card-shadow p-4 flex flex-col items-center max-w-[25rem] mx-auto text-justify"
             >
               <div className="relative w-full h-48 overflow-hidden group img-container mb-4">
