@@ -29,7 +29,7 @@ export default function Section1() {
                 </div>
 
                 <div className="flex justify-center gap-4 mt-6">
-                    <a href="https://docs.google.com/document/d/1mXSg9GkDiSLZ2Ujsq2AlhFcTaNYZJ3cp/edit" target="_blank" rel="noopener noreferrer">
+                    <a href="https://drive.google.com/file/d/1RP1TB-31zwcF8T1xRjDZYXscqfJDtl8r/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                         <button className="bg-yellow-500 text-black px-9 py-2 rounded-md hover:bg-yellow-600 transition-colors">
                             CV
                         </button>
