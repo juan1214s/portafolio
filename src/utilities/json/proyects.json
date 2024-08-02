@@ -45,15 +45,8 @@
         "title": "HYLLS MUSIC",
         "description": "TypeScript, Node, TypeORM, JWT, MySQL.",
         "description2": "Proyecto que está en proceso de subir a producción.",
-        "image": "src/assets/images/p2.png",
+        "image": "src/assets/images/captura3.png",
         "gitHub": "https://github.com/juan1214s/back-hylls"
-    },
-    {
-        "title": "Natillera JMS",
-        "description": "PHP, MySQL.",
-        "description2": "Proyecto en el cual se pueden registrar préstamos, abonos e intereses.",
-        "image": "src/assets/images/captura4.png",
-        "gitHub": "https://github.com/juan1214s/natillera"
     },
     {
         "title": "Natillera JMS",
