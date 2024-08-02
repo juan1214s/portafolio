@@ -27,14 +27,17 @@ export default function Section1() {
                         </svg>
                     </a>
                 </div>
-                
+
                 <div className="flex justify-center gap-4 mt-6">
-                    <button className="bg-yellow-500 text-black px-9 py-2 rounded-md hover:bg-yellow-600 transition-colors">
-                        CV
-                    </button>
+                    <a href="https://docs.google.com/document/d/1mXSg9GkDiSLZ2Ujsq2AlhFcTaNYZJ3cp/edit" target="_blank" rel="noopener noreferrer">
+                        <button className="bg-yellow-500 text-black px-9 py-2 rounded-md hover:bg-yellow-600 transition-colors">
+                            CV
+                        </button>
+                    </a>
                 </div>
+
             </div>
-            
+
             <div className="m-14 md:m-28 flex justify-center md:ml-8">
                 <Avatar src="https://i.imgur.com/rsKBT3r.jpeg" alt="Juan Sanchez" fallback="JS" />
             </div>
