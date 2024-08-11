@@ -3,7 +3,7 @@
     "id": "contactos-backend",
     "title": "Contactos Backend",
     "description": "TypeScript, NestJS, bcrypt, Nodemailer, TypeORM, JWT, MySQL.",
-    "description2": "También cuenta con un frontend.",
+    "description2": "",
     "image": "/images/captura1.jpg",
     "gitHub": "https://github.com/juan1214s/contactos-back"
   },
@@ -11,7 +11,7 @@
     "id": "contactos-frontend",
     "title": "Contactos Frontend",
     "description": "TypeScript, bcrypt, Nodemailer, SweetAlert y rutas protegidas.",
-    "description2": "También cuenta con un backend.",
+    "description2": "",
     "image": "/images/captura5.png",
     "gitHub": "https://github.com/juan1214s/contactos-back"
   },
@@ -19,7 +19,7 @@
     "id": "mecanica-backend",
     "title": "Mecánica Backend",
     "description": "TypeScript, NestJS, bcrypt, Nodemailer, TypeORM, JWT, MySQL.",
-    "description2": "También cuenta con un frontend.",
+    "description2": "",
     "image": "/images/captura1.jpg",
     "gitHub": "https://github.com/juan1214s/Mecanica-backend"
   },
@@ -27,7 +27,7 @@
     "id": "tareas-backend",
     "title": "Tareas Backend",
     "description": "Es un proyecto para guardar tus tareas de manera sencilla y rápida.",
-    "description2": "También cuenta con un frontend.",
+    "description2": "",
     "image": "/images/captura1.jpg",
     "gitHub": "https://github.com/juan1214s/tareas-backend"
   },
@@ -44,7 +44,7 @@
     "title": "JMS Tienda",
     "description": "Node, Multer, JWT, MySQL.",
     "description2": "Aún está en proceso, pero igualmente contará con un frontend.",
-    "image": "/images/captura2.png",
+    "image": "/images/captura1.jpg",
     "gitHub": "https://github.com/juan1214s/JMS-tienda"
   },
   {
