@@ -1,17 +1,17 @@
 [
     {
-        "institute": "Cesde Medellin",
-        "certificate": "Tecnico en desarrollo de sofware.",
+        "institute": "CESDE Medellín",
+        "certificate": "Técnico en Desarrollo de Software",
         "year": "2022 - 2024"
     },
     {
         "institute": "Platzi",
-        "certificate": "Certificado git y gitHub profesional. ",
+        "certificate": "Certificado en Git y GitHub Profesional",
         "year": "2022"
     },
     {
         "institute": "Platzi",
-        "certificate": "Curso basico en Azure.",
+        "certificate": "Curso Básico en Azure",
         "year": "2023"
     }
 ]

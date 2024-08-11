@@ -23,7 +23,7 @@ export default function Section4() {
           {proyects.map((project) => (
             <div
               key={project.id}
-              className="card-shadow p-4 flex flex-col items-center max-w-[25rem] mx-auto text-justify"
+              className="card-shadow p-4 flex flex-col items-center max-w-[25rem] h-[28rem] mx-auto text-justify"
             >
               <div className="relative w-full h-48 overflow-hidden group img-container mb-4">
                 <img

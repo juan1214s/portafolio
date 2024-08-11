@@ -2,65 +2,65 @@
   {
     "id": "contactos-backend",
     "title": "Contactos Backend",
-    "description": "TypeScript, NestJS, bcrypt, Nodemailer, TypeORM, JWT, MySQL.",
-    "description2": "",
-    "image": "/images/captura1.jpg",
+    "description": "Desarrollado con TypeScript, NestJS, bcrypt, Nodemailer, TypeORM, JWT y MySQL.",
+    "description2": "Implementa una arquitectura sólida para manejar contactos con seguridad y eficiencia.",
+    "image": "/images/2.png",
     "gitHub": "https://github.com/juan1214s/contactos-back"
   },
   {
     "id": "contactos-frontend",
     "title": "Contactos Frontend",
-    "description": "TypeScript, bcrypt, Nodemailer, SweetAlert y rutas protegidas.",
-    "description2": "",
-    "image": "/images/captura5.png",
-    "gitHub": "https://github.com/juan1214s/contactos-back"
+    "description": "Desarrollado con TypeScript, bcrypt, Nodemailer, SweetAlert y rutas protegidas.",
+    "description2": "Es una aplicación en la que puedes guardar tus contactos de manera rápida y sencilla, con una interfaz amigable.",
+    "image": "/images/3.png",
+    "gitHub": "https://github.com/juan1214s/contactos-front/tree/main/contactos-front"
   },
   {
     "id": "mecanica-backend",
     "title": "Mecánica Backend",
-    "description": "TypeScript, NestJS, bcrypt, Nodemailer, TypeORM, JWT, MySQL.",
-    "description2": "",
-    "image": "/images/captura1.jpg",
+    "description": "Desarrollado con TypeScript, NestJS, bcrypt, Nodemailer, TypeORM, JWT y MySQL.",
+    "description2": "Backend robusto para la gestión de servicios mecánicos, asegurando una comunicación eficaz con el frontend.",
+    "image": "/images/1.png",
     "gitHub": "https://github.com/juan1214s/Mecanica-backend"
   },
   {
     "id": "tareas-backend",
     "title": "Tareas Backend",
-    "description": "Es un proyecto para guardar tus tareas de manera sencilla y rápida.",
-    "description2": "",
-    "image": "/images/captura1.jpg",
+    "description": "Es un proyecto para gestionar tus tareas de manera sencilla y rápida.",
+    "description2": "Facilita la gestión de tareas pendientes, mejorando la productividad.",
+    "image": "/images/4.png",
     "gitHub": "https://github.com/juan1214s/tareas-backend"
   },
   {
     "id": "tareas-frontend",
-    "title": "Tareas frontend",
-    "description": "Es un proyecto para guardar tus tareas de manera sencilla y rápida.",
-    "description2": "",
-    "image": "/images/captura6.png",
+    "title": "Tareas Frontend",
+    "description": "Es un proyecto para gestionar tus tareas de manera sencilla y rápida.",
+    "description2": "Interfaz intuitiva para gestionar y organizar tus tareas diarias.",
+    "image": "/images/5.png",
     "gitHub": "https://github.com/juan1214s/apTareas"
   },
   {
     "id": "jms-tienda",
     "title": "JMS Tienda",
-    "description": "Node, Multer, JWT, MySQL.",
-    "description2": "Aún está en proceso, pero igualmente contará con un frontend.",
-    "image": "/images/captura1.jpg",
+    "description": "Desarrollado con Node, Multer, JWT y MySQL.",
+    "description2": "Plataforma en desarrollo que permitirá la gestión y venta de productos de manera eficiente.",
+    "image": "/images/Backend.png",
     "gitHub": "https://github.com/juan1214s/JMS-tienda"
   },
   {
     "id": "hylls-music",
     "title": "HYLLS MUSIC",
-    "description": "TypeScript, Node, TypeORM, JWT, MySQL.",
-    "description2": "Proyecto que está en proceso de subir a producción.",
-    "image": "/images/captura3.png",
+    "description": "Desarrollado con TypeScript, Node, TypeORM, JWT y MySQL.",
+    "description2": "Proyecto musical enfocado en la distribución y promoción de artistas a través de una plataforma digital.",
+    "image": "/images/8.png",
     "gitHub": "https://github.com/juan1214s/back-hylls"
   },
   {
     "id": "natillera-jms",
     "title": "Natillera JMS",
-    "description": "PHP, MySQL.",
-    "description2": "Proyecto en el cual se pueden registrar préstamos, abonos e intereses.",
-    "image": "/images/captura4.png",
+    "description": "Desarrollado con PHP y MySQL.",
+    "description2": "Herramienta de gestión financiera para registrar y controlar préstamos y abonos con precisión.",
+    "image": "/images/7.png",
     "gitHub": "https://github.com/juan1214s/natillera"
   }
 ]
