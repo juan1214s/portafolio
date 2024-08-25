@@ -23,13 +23,13 @@ export default function Section4() {
           {proyects.map((project) => (
             <div
               key={project.id}
-              className="card-shadow p-4 flex flex-col items-center max-w-[25rem] h-[28rem] mx-auto text-justify"
+              className="card-shadow p-4 flex flex-col items-center max-w-[25rem] h-[28rem] mx-auto text-justify rounded-lg" // Añadido: rounded-lg para bordes redondeados
             >
-              <div className="relative w-full h-48 overflow-hidden group img-container mb-4">
+              <div className="relative w-full h-48 overflow-hidden group img-container mb-4 rounded-lg"> {/* Añadido: rounded-lg */}
                 <img
                   src={project.image}
                   alt={project.title}
-                  className="w-full h-full object-cover transition-transform transform group-hover:scale-110 duration-300 ease-in-out rounded-img"
+                  className="w-full h-full object-cover transition-transform transform group-hover:scale-110 duration-300 ease-in-out rounded-lg" // Añadido: rounded-lg
                 />
               </div>
               <div className="w-full">

@@ -10,7 +10,7 @@ export default function Section3() {
         {experiences.map((experience, index) => (
           <div
             key={index}
-            className="card-shadow p-4 w-full text-justify"
+            className="card-shadow p-4 w-full text-justify rounded-lg" // Aquí añadí la clase rounded-lg
           >
             <h2 className="text-2xl font-semibold">{experience.company}</h2>
             <p className="text-xl">{experience.position}</p>
@@ -20,5 +20,6 @@ export default function Section3() {
         ))}
       </div>
     </div>
+
   );
 }

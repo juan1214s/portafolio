@@ -5,25 +5,25 @@
 
 @keyframes shadowBlink {
   0% {
-    box-shadow: 0 0 30px rgb(255, 223, 0);
+    box-shadow: 0 0 15px rgb(255, 223, 0);
   }
   50% {
-    box-shadow: 0 0 60px rgb(255, 223, 0);
+    box-shadow: 0 0 30px rgb(255, 223, 0);
   }
   100% {
-    box-shadow: 0 0 30px rgb(255, 223, 0);
+    box-shadow: 0 0 15px rgb(255, 223, 0);
   }
 }
 
 @keyframes softShadowBlink {
   0% {
-    box-shadow: 0 0 10px rgb(255, 223, 0);
+    box-shadow: 0 0 5px rgb(255, 223, 0);
   }
   50% {
-    box-shadow: 0 0 20px rgb(255, 223, 0);
+    box-shadow: 0 0 10px rgb(255, 223, 0);
   }
   100% {
-    box-shadow: 0 0 10px rgb(255, 223, 0);
+    box-shadow: 0 0 5px rgb(255, 223, 0);
   }
 }
 
