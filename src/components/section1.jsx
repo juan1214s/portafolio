@@ -11,7 +11,7 @@ export default function Section1() {
 
                 <h2 className="text-2xl font-semibold text-bg-custom-yellow mt-2">Desarrollador Backend Junior</h2>
                 <p className="mt-4 max-w-md mx-auto">
-                    Soy un programador enfocado principalmente en backend. Además, estoy explorando nuevos horizontes en la programación móvil.
+                Soy un programador apasionado por el backend, con un enfoque claro en la creación de aplicaciones eficientes y escalables. Me encanta resolver problemas complejos y optimizar sistemas para que sean robustos, rápidos y mantenibles. Mi experiencia abarca desde el diseño de arquitecturas backend sólidas hasta la implementación de APIs eficientes, siempre siguiendo las mejores prácticas de desarrollo y seguridad.
                 </p>
 
                 <div className="flex justify-center gap-4 mt-6">
