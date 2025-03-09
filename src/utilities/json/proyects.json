@@ -70,5 +70,13 @@
     "description2": "Desarrollé una API REST en .NET utilizando procedimientos almacenados, JWT para autenticación y bcrypt para cifrado de contraseñas. Implementé los principios SOLID para asegurar una arquitectura escalable y mantenible. ",
     "image": "/images/NET.png",
     "gitHub": "https://github.com/juan1214s/Contactos.Net"
+  }, 
+  {
+    "id": "Api Libros .NET Api",
+    "title": ".NET API",
+    "description": "Desarrollado con .NET",
+    "description2": "Desarrollé una API REST en .NET utilizando procedimientos almacenados, JWT para autenticación, Dapper y bcrypt para cifrado de contraseñas. Implementé los principios SOLID para asegurar una arquitectura escalable y mantenible. ",
+    "image": "/images/LibrosBack.png",
+    "gitHub": "https://github.com/juan1214s/Libros-Api"
   }
 ]
