@@ -16,7 +16,7 @@ export default function Section2() {
             className=" bg-custom-yellow p-2 rounded-full inline-flex items-center justify-center"
           >
             <img
-              className="w-16 h-16 object-contain"
+              className="w-18 h-16 object-contain"
               src={src}
               alt={alt}
             />
